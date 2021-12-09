@@ -48,17 +48,17 @@ Ansible, Vagrant, git, PantsBuild, Docker, Terraform
 SQL, PostgreSQL, SQLite, MySQL, Twisted Server, Marshmallow, Passlib, SQLAlchemy, Django
 
 # References
-Frankie Primerano 
+## Frankie Primerano 
 Principal Software Engineer at Fextoolkit.com 
-frankie@fextoolkit.com
-973-787-7159
+ - frankie@fextoolkit.com
+ - 973-787-7159
 
-Joe Wahl 
+## Joe Wahl 
 CEO at Fextoolkit.com 
-joe@fextoolkit.com 
-302-272-5488
+ - joe@fextoolkit.com 
+ - 302-272-5488
 
-Ian Schenck 
+## Ian Schenck 
 CTO / Cofounder at Paws Your Game
-ian.schenck@gmail.com
-646-240-2411 
+ - ian.schenck@gmail.com
+ - 646-240-2411 
