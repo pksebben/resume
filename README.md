@@ -48,7 +48,7 @@ Jackal Brewing was a startup brewery focused on the craft beer market.
 
 # Skills
 ## Languages/Frameworks
-Python, Rust, C++, JavaScript, Lisp, bash, Java, React, Redux, Flask
+Python, Rust, C++, Lisp, bash, Java, React, Redux, Flask, Go,  JavaScript
 ## DevOps
 Ansible, Vagrant, git, PantsBuild, Docker, Terraform
 ## Tools
