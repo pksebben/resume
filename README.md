@@ -19,6 +19,17 @@ Joined a small tech team and made significant contributions to product developme
    - Created backend database and API using Python / Flask / SQL and developed site map.
    - Coordinated with frontend designer on UI implementation.
 
+## Personal Projects
+
+### Python Nanny 
+A Python package for novice programmers, when installed as part of a user site intercepts all uncaught exceptions, logging them with contextual information and reraising them. It provides users with personalized statistics on the most common classes of errors and the related third-party modules and packages to highlight knowledge gaps.
+
+### Interp 
+Rust-based application that interpolates video using cv2 bindings and sends pixel data over websockets to microcontrollers that run LEDs.
+
+### Link Library
+An app that scrapes Zulip conversations for links in Rust and organizes and presents them in a searchable, taggable context with comment system and user account management built on Flask.  Purpose-built for the Recurse Center with a focus on presenting a store of information of interest to a programming community.
+
 
 ## Previous Job Experience
  - Restaurant/Bar Manager, Bartender - Multiple locations	2014 - 2017
@@ -34,10 +45,6 @@ Jackal Brewing was a startup brewery focused on the craft beer market.
  - Received extensive training in Information Operations and coordination of on- and off-battlefield data between commands with a focus on planning and strategic support.
  - Completed basic combat training at Fort Jackson, SC.
 
-# Personal Projects
- - Python Nanny - A Python package for novice programmers, when installed as part of a user site intercepts all uncaught exceptions, logging them with contextual information and reraising them. It provides users with personalized statistics on the most common classes of errors and the related third-party modules and packages to highlight knowledge gaps.
- - Interp - Rust-based application that interpolates video using cv2 bindings and sends pixel data over websockets to microcontrollers that run LEDs.
- - Link Library - An app that scrapes Zulip conversations for links in Rust and organizes and presents them in a searchable, taggable context with comment system and user account management built on Flask.  Purpose-built for the Recurse Center with a focus on presenting a store of information of interest to a programming community.
 
 # Skills
 ## Languages/Frameworks
